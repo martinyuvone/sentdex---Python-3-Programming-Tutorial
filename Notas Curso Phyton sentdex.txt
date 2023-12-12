@@ -1,0 +1,63 @@
+sentdex
+	Python 3 Programming Tutorial
+	
+https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M
+
+0/68 Why Python 3? Python 2 vs Python 3
+1/68 	Installing Python 3 - How to install/use both Python 2 and Python 3
+
+2/68 	Python 3 Tutorial: Print Function and Strings	
+3/68 	Python 3 Programming Tutorial: Math				
+
+4/68 	Python 3 Programming Tutorial: Variables		
+5/68	Python 3 programming tutorial: While Loop
+6/68	Python 3 Programming Tutorial - For loop
+
+7/68	Python 3 Programming Tutorial: If Statement 	
+8/68	Python 3 Programming Tutorial: If Else
+09/68	Python 3 Programming Tutorial: If Elif Else
+
+10/68	Python 3 Programming Tutorial - Functions
+11/68	Python 3 Programming Tutorial - Function Parameters
+12/68	Python 3 Programming Tutorial - Function Parameter Defaults 	<<<< HERE >>>>
+
+13/68	Python 3 Programming Tutorial - Global and Local Variables
+14/68	Python 3 Programming Tutorial - Installing modules
+
+15/68	How to download and install Python Packages and 
+16/68 	Python 3 Programming Tutorial - Common errors
+17/68	Python 3 Programming Tutorial - Writing to File
+
+18/68	Python 3 Programming Tutorial - Appending Files
+29/68   Python 3 Programming Tutorial - Read from a file
+20/68	Python 3 Programming Tutorial - Classes	
+21/68	Python 3 Programming Tutorial - Frequently asked questions	
+22/68	Python 3 Programming Tutorial - Getting user input
+23/68	Python 3 Programming Tutorial - Statistics (Mean, Standard Deviation)
+24/68 	Python 3 Programming Tutorial - Module Import Syntax
+
+25/68	Python 3 Programming Tutorial - Making Modules
+26/68	Python 3 Programming Tutorial - Lists and Tuples
+27/68	Python 3 Programming Tutorial - List Manipulation
+28/68	Python 3 Programming Tutorial - Multi-dimensional List
+
+29/68	Python 3 Programming Tutorial - Reading from a CSV spreadsheet 
+30/68	Python 3 Programming Tutorial - Try and Execpt error Handling 
+
+31/68 	Python 3 Programming Tutorial - Multi-line Print	
+32/68	Python 3 Programming Tutorial - Dictionaries	
+
+33/68	Python 3 Programming Tutorial - Built-in Functions
+34/68	Python 3 Programming Tutorial - OS Module	
+35/68	Python 3 Programming Tutorial - Sys Module	
+
+36/68	Python 3 Programming Tutorial - urllib module 
+
+37/68	Python 3 Programming Tutorial - Regular Expressions / Regex with re < Continue
+
+38/68	Python 3 Programming Tutorial - Parsing Websites with re and urllib
+39/68	Python 3 Programming Tutorial - tkinter module making windows
+
+
+Token Accenture: A20769FD729B942E 
+Codigo Confirmacion IBM: 9tl9n
